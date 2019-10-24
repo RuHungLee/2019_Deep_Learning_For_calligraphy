@@ -1,2 +1,3 @@
-# Converting the style of chinese word and Learning the regulation of it
+#Learning the regulation of chinese word
+
 
